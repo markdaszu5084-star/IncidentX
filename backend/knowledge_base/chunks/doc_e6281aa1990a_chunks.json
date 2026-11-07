@@ -1,0 +1,38 @@
+{
+  "document_id": "doc_e6281aa1990a",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "doc_e6281aa1990a_c0000",
+      "document_id": "doc_e6281aa1990a",
+      "filename": "Durga_Puja_Festivity_2026.pdf",
+      "chunk_index": 0,
+      "text": "Figure 1: Durga Puja\nDurga Puja 2026\nThe Festival of Joy and Devotion\n17 October \u2013 21 October 2026\nWelcome to Durga Puja!\nDurga Puja celebrates the victory of good over evil and honours Maa Durga.\nMay Maa Durga bless everyone with happiness, peace, and prosperity.\nFestival Schedule\n\u2022Shasthi:17 October\n1",
+      "character_count": 304,
+      "word_count": 51,
+      "page_number": 1,
+      "metadata": {
+        "source": "Durga_Puja_Festivity_2026.pdf",
+        "chunk_size": 600,
+        "chunk_overlap": 200,
+        "page_number": 1
+      }
+    },
+    {
+      "chunk_id": "doc_e6281aa1990a_c0001",
+      "document_id": "doc_e6281aa1990a",
+      "filename": "Durga_Puja_Festivity_2026.pdf",
+      "chunk_index": 1,
+      "text": "\u2022Saptami:18 October\n\u2022Ashtami:19 October\n\u2022Navami:20 October\n\u2022Dashami:21 October\nSubho Durga Puja!\nCelebrate love, unity, and happiness.\n2",
+      "character_count": 136,
+      "word_count": 17,
+      "page_number": 2,
+      "metadata": {
+        "source": "Durga_Puja_Festivity_2026.pdf",
+        "chunk_size": 600,
+        "chunk_overlap": 200,
+        "page_number": 2
+      }
+    }
+  ]
+}
